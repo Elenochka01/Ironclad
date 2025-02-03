@@ -1,7 +1,10 @@
 ### Ironclad
 ---  
 ### Project Description
-This project features a Selenium automation script developed in Java. The script automates the process of testing the "Solution" and "Company" sections. The script employs an assertion method to confirm that the user is correctly redirected to the "Careers" page. The **Thread.sleep** method was used only for visual validation to ensure that every step is clearly visible in the recorded video. The video is also attached—please check it out.
+This project features a Selenium automation script developed in Java to validate the functionality of the "Solution" and "Company" sections of a website.
+- In the "Solution" section, the script verifies that each item in the dropdown menu is clickable.
+- In the "Company" section, it ensures that users are correctly redirected to the "Careers" page using assertion methods.
+The Thread.sleep method is used solely for visual validation to make each step clearly visible in the recorded video. The test execution video is also attached for reference—please check it out.
 
 ---  
 ### Technologies & Tools Used
